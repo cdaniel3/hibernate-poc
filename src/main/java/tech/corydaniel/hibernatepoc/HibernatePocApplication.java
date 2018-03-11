@@ -1,4 +1,4 @@
-package tech.corydaniel.hibernatepoc.hibernatepoc;
+package tech.corydaniel.hibernatepoc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

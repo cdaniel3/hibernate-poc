@@ -1,4 +1,4 @@
-package tech.corydaniel.hibernatepoc.hibernatepoc;
+package tech.corydaniel.hibernatepoc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
