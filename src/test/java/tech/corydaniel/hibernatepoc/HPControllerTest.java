@@ -126,25 +126,5 @@ public class HPControllerTest {
 		aYearAgo.add(Calendar.YEAR, 1);
 		return aYearAgo.getTime();
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }
